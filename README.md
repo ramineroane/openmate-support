@@ -9,8 +9,7 @@ OpenMate is a fully offline chess app with no data collection.
 - Strategy tips in plain English
 - No ads, no accounts, no tracking
 
-![nps_4M](https://github.com/user-attachments/assets/fa6bd8b8-3f14-4352-9746-63fea8841581)
-
+<img width="660" height="876" alt="Screenshot 2026-03-23 at 23 16 42" src="https://github.com/user-attachments/assets/ad7d0120-406b-4878-8bd3-a66850900d81" />
 
 ## Support
 For questions, feedback, or issues:
