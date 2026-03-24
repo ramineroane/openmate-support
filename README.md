@@ -15,4 +15,5 @@ OpenMate is a fully offline chess app with no data collection.
 ## Support
 For questions, feedback, or issues:
 📧 openmate.app@gmail.com
+
 © 2026 Ramine Roane
