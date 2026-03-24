@@ -12,6 +12,12 @@ OpenMate is a fully offline chess app with no data collection.
 
 <img width="660" height="876" alt="Screenshot 2026-03-23 at 23 16 42" src="https://github.com/user-attachments/assets/ad7d0120-406b-4878-8bd3-a66850900d81" />
 
+## Privacy Policy
+OpenMate does not collect, store, or share any personal data.
+The app operates entirely offline and does not require an internet connection. No user information is transmitted to external servers.
+OpenMate does not use analytics, tracking technologies, or third-party services.
+All gameplay and processing occur locally on the device.
+
 ## Support
 For questions, feedback, or issues:
 📧 openmate.app@gmail.com
